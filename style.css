@@ -1,0 +1,16 @@
+body{
+	background-image: url(header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+
+
+h1{
+	padding-top: 8em;
+	padding-left: 2em;
+	font-family: 'Barlow', sans-serif;
+	color: #624A00;
+}
+
